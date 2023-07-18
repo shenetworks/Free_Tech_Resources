@@ -16,6 +16,8 @@ Cyber Security
 TryHackMe- https://tryhackme.com/
 Antisyphon Training- https://www.antisyphontraining.com/pay-what-you-can/
 Hack The Box- https://www.hackthebox.com/
+Open Security Training 2- https://p.ost2.fyi/
+Cyber Security Hub- https://cyber-security-hub.github.io/
 
 Development/Code
 Code Academy- https://www.codecademy.com/
