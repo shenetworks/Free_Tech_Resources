@@ -10,7 +10,6 @@ Operating Systems
 The Linux Foundation- https://training.linuxfoundation.org/resources/free-courses/
 Operating Systems: Three Easy Pieces - https://pages.cs.wisc.edu/~remzi/OSTEP/
 
-
 Cloud
 AWS Educate- https://aws.amazon.com/education/awseducate/
 
