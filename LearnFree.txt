@@ -21,6 +21,7 @@ Development/Code
 Code Academy- https://www.codecademy.com/
 Automate the boring stuff with python- https://automatetheboringstuff.com/
 Free Code Camp- https://www.freecodecamp.org/
+LaraCasts- https://laracasts.com/
 
 Multiple
 Edx- https://www.edx.org/
