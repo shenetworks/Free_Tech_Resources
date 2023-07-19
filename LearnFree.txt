@@ -17,6 +17,8 @@ Cyber Security
 TryHackMe- https://tryhackme.com/
 Antisyphon Training- https://www.antisyphontraining.com/pay-what-you-can/
 Hack The Box- https://www.hackthebox.com/
+Open Security Training 2- https://p.ost2.fyi/
+Cyber Security Hub- https://cyber-security-hub.github.io/
 Cybrary - https://www.cybrary.it/free-content
 Hacker101 - webApp hacking - https://www.hacker101.com/
 Hopper's Roppers Security Training  - https://www.hoppersroppers.org/training.html
@@ -32,6 +34,7 @@ Cyberbit Range Remote Training - Free Live Cyber Range Training Session - https:
 Elastic - Free on-demand Elastic Stack, observability, and security courses. - https://www.elastic.co/training/free
 Fortinet - https://www.fortinet.com/training/cybersecurity-professionals
 RangeForce Community Edition - https://go.rangeforce.com/community-edition-registration
+
 
 Development/Code
 Code Academy- https://www.codecademy.com/
