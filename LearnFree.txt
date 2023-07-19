@@ -8,6 +8,7 @@ Cisco Developer (Devnet) - https://developer.cisco.com/
 
 Operating Systems
 The Linux Foundation- https://training.linuxfoundation.org/resources/free-courses/
+Operating Systems: Three Easy Pieces - https://pages.cs.wisc.edu/~remzi/OSTEP/
 
 Cloud
 AWS Educate- https://aws.amazon.com/education/awseducate/
@@ -16,15 +17,40 @@ Cyber Security
 TryHackMe- https://tryhackme.com/
 Antisyphon Training- https://www.antisyphontraining.com/pay-what-you-can/
 Hack The Box- https://www.hackthebox.com/
+Cybrary - https://www.cybrary.it/free-content
+Hacker101 - webApp hacking - https://www.hacker101.com/
+Hopper's Roppers Security Training  - https://www.hoppersroppers.org/training.html
+Open Security Training 2 - Systems Security, Malware Analysis and Secure Coding and Vul exploit - https://p.ost2.fyi/courses -https://opensecuritytraining.info/Home.html
+PentesterLab - https://pentesterlab.com/exercises
+PortSwigger Web Security Academy - https://portswigger.net/web-security
+AttackIQ Academy - https://www.academy.attackiq.com/
+Google Cybersecurity Certificate - https://grow.google/certificates/cybersecurity/#?modal_active=none
+Labtainers - https://nps.edu/web/c3o/labtainers
+
+SOC:
+Cyberbit Range Remote Training - Free Live Cyber Range Training Session - https://go.cyberbit.com/100k-worth-of-free-remote-cyber-range-training/
+Elastic - Free on-demand Elastic Stack, observability, and security courses. - https://www.elastic.co/training/free
+Fortinet - https://www.fortinet.com/training/cybersecurity-professionals
+RangeForce Community Edition - https://go.rangeforce.com/community-edition-registration
 
 Development/Code
 Code Academy- https://www.codecademy.com/
 Automate the boring stuff with python- https://automatetheboringstuff.com/
 Free Code Camp- https://www.freecodecamp.org/
+Veracode Security Labs Community Edition - https://info.veracode.com/security-labs-community-edition-signup.html
+Introduction to Software Security - https://research.cs.wisc.edu/mist/SoftwareSecurityCourse/
 
 Multiple
 Edx- https://www.edx.org/
 Grow with Google- https://grow.google/
+Evolve Academy - Free cybersecurity fundamentals course - https://www.academy.evolvesecurity.com/cybersecurity-fundamentals
+FedVTE Public Courses - https://fedvte.usalearning.gov/public_fedvte.php
+CyberTraining 365 Online Academy - https://www.cybertraining365.com/cybertraining/FreeClasses
+ITProTV - https://www.itpro.tv/plans/personal/
+Microsoft Technologies Training - https://learn.microsoft.com/en-us/training/browse/?term=security&terms=security
 
 Programs:
 Texas Work Force Commission - Skill Enhancement Initiative - Free training for all Texas Residents- https://www.twc.texas.gov/jobseekers/skillsenhancementtools
+
+CISO:
+Microsoft's Chief Information Security Officer (CISO) Workshop Training - https://learn.microsoft.com/en-us/security/ciso-workshop/ciso-workshop
