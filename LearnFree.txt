@@ -51,6 +51,7 @@ Free Code Camp- https://www.freecodecamp.org/
 LaraCasts- https://laracasts.com/
 Veracode Security Labs Community Edition - https://info.veracode.com/security-labs-community-edition-signup.html
 Introduction to Software Security - https://research.cs.wisc.edu/mist/SoftwareSecurityCourse/
+Test Automation University - https://testautomationu.applitools.com/
 
 Multiple
 Edx- https://www.edx.org/
