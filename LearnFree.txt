@@ -52,6 +52,7 @@ LaraCasts- https://laracasts.com/
 Veracode Security Labs Community Edition - https://info.veracode.com/security-labs-community-edition-signup.html
 Introduction to Software Security - https://research.cs.wisc.edu/mist/SoftwareSecurityCourse/
 Test Automation University - https://testautomationu.applitools.com/
+Advanced Python Mastery - https://github.com/dabeaz-course/python-mastery
 
 Multiple
 Edx- https://www.edx.org/
