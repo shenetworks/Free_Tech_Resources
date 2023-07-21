@@ -37,6 +37,7 @@ AttackIQ Academy - https://www.academy.attackiq.com/
 Google Cybersecurity Certificate - https://grow.google/certificates/cybersecurity/#?modal_active=none
 Labtainers - https://nps.edu/web/c3o/labtainers
 CTFtime - https://ctftime.org/event/list/upcoming
+ISC² - CyberSecurity Exam & Certificate - https://www.isc2.org/1mcc
 
 SOC:
 Cyberbit Range Remote Training - Free Live Cyber Range Training Session - https://go.cyberbit.com/100k-worth-of-free-remote-cyber-range-training/
@@ -63,6 +64,7 @@ FedVTE Public Courses - https://fedvte.usalearning.gov/public_fedvte.php
 CyberTraining 365 Online Academy - https://www.cybertraining365.com/cybertraining/FreeClasses
 ITProTV - https://www.itpro.tv/plans/personal/
 Microsoft Technologies Training - https://learn.microsoft.com/en-us/training/browse/?term=security&terms=security
+Hoppers Roppers Academy - https://www.hoppersroppers.org/
 
 CISO:
 Microsoft's Chief Information Security Officer (CISO) Workshop Training - https://learn.microsoft.com/en-us/security/ciso-workshop/ciso-workshop
