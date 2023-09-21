@@ -52,10 +52,12 @@ Please open a PR to submit a social media account
 - Kitboga - https://www.twitch.tv/kitboga
 
 ## Blog:
-- Allow Some Deny All - https://www.allowsomedenyall.com/
+- Allow Some Deny All - https://www.allowsomedenyall.com/ - Hacking, Coffee, and Community
 
 ## Github:
 - INIT6Source - https://github.com/INIT6Source
+- DEFCON Parrot - https://github.com/DefconParrot - DArT, DCGs, DC Hashtags, Conference Dates
+- Infosec Events - https://github.com/xsa/infosec-events - Conferences
 
 ## Twitter
 
