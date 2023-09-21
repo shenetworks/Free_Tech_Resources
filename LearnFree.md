@@ -1,5 +1,5 @@
-Free Learning Resources
-// All resources must have free options available to students not just on a trial basis //
+# Free Learning Resources
+## // All resources must have free options available to students not just on a trial basis //
 
 
 ## Networking/Network Automation 
